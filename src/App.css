@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;1,100&display=swap');
+
+*{
+transition: all 0.5s ease-in-out;
+font-family:'Work Sans', sans-serif;
+font-size: 20px;
+}
+
+ #light bod{
+  background-color: rgb(255, 255, 255);
+  
+ }
+ #dark{
+  background-color: #181A2A
+ }
+ 
+ #light :is(h1,h2,h3,h4,h5,p,b,div,a,i,span){
+  color:  black;
+ }
+ #dark :is(h1,h2,h3,h4,h5,p,b,div,a,i,span){
+  color: #BABABF
+ }
+
+ #dark .card{
+  background-color: #242535;
+ }
+ #light .card{
+  background-color: #ffffff;
+ }
+

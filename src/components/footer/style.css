@@ -1,0 +1,20 @@
+.link{
+    text-decoration: none;
+    color: black;
+}
+.terms{
+    width: 25%;
+    justify-content: space-between;
+}
+.copyright{
+    width: 28%;
+    
+}
+#dark .logo{
+    filter: invert(1)brightness(10);
+    
+}
+#light .logo{
+    filter: invert(0)brightness(1);
+
+}

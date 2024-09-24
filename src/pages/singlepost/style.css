@@ -1,0 +1,15 @@
+.badge{
+          background-color: #4B6BFB;
+}
+#dark p,span,h5,i{
+  color:  #BABABF;
+}
+#light p,span,h5,i{
+   color: rgb(0, 0, 0);
+}
+ .text{
+    margin-bottom: 20%;
+ }
+ #dark card {
+   background-color: #242535;
+ }

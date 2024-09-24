@@ -1,0 +1,22 @@
+
+.navContainer{
+    display: flex;
+    width: 47%;
+    justify-content: space-between;
+}
+.searchBar{
+    
+    width: 50%;
+}
+ input{
+    background: none !important;
+}
+
+#dark .logo{
+    filter: invert(1)brightness(10);
+    
+}
+#light .logo{
+    filter: invert(0)brightness(1);
+
+}

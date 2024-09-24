@@ -1,0 +1,24 @@
+.imageBackground{
+    background-image: url("src/assets/Image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    color: white;
+    margin-bottom: 10%;
+}
+.blogcardTitle{
+    background-color: #4B6BFB;
+    width: 100px;
+    border-radius: 5px ;
+}
+.cardText{
+   text-align: center;
+   color: white;
+}
+.profileContent{
+margin-left: 15px;
+}
+.title{width: 50%;}
+.cardContainer{
+padding: 300px 0px 30px 30px
+}
